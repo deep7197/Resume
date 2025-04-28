@@ -1,0 +1,12 @@
+.msHeader {
+    background-color: #fff;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 20px;
+}
+
+.msHeaderItem {
+    font-size: 1.2rem;
+}
