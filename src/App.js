@@ -9,10 +9,6 @@ function App() {
       element: <Resume />,
     },
     {
-      path: "/Resume",
-      element: <Resume />,
-    },
-    {
       path: "/details",
       element: <Details />,
     },
