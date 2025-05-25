@@ -33,7 +33,7 @@
         text-decoration: none;
         margin: 0 10px;
         color: #3c6386;
-        
+
         &:hover {
             color: #00122a;
             text-decoration: underline;
@@ -67,6 +67,7 @@
         gap: 10px;
         color: #00122a;
     }
+
     .msr_social_links li {
         display: flex;
         align-items: center;
@@ -82,6 +83,12 @@
                 color: #00122a;
             }
         }
-    
+
+    }
+
+    .msr_link {
+        color: #00122a;
+        text-decoration: none;
+        font-weight: bold;
     }
 }

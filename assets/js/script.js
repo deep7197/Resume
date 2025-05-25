@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const descriptionText = "I am a web developer with a passion for creating dynamic and responsive websites. I love coding and enjoy learning new technologies.";
+    const descriptionText = "I'm a PHP full stack developer working on WordPress plugins. I love coding and constantly explore new technologies.";
     const target = document.querySelector(".msr_main_content");
 
     console.log(descriptionText.length);
