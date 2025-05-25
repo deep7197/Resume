@@ -1,0 +1,28 @@
+.msr_main_details {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+    border-radius: 20px;
+
+    img {
+        width: 500px;
+        height: 500px;
+        object-fit: cover;
+        object-position: top;
+    }
+
+    .msr_main_content {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+
+        h1 {
+            color: #00122a;
+        }
+        p {
+            color: #3c6386;
+        }
+    }
+}
