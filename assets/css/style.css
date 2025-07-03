@@ -4,8 +4,12 @@
     margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
-    width: 90%;
+    width: 91%;
     font-family: 'Inter', sans-serif;
+}
+
+.msr_main_container {
+    width: 100%;
 }
 
 .msr_body {
@@ -25,13 +29,12 @@
     .msr_nav_links {
         display: flex;
         justify-content: center;
-        width: 50%;
+        width: 82%;
         list-style: none;
     }
 
     .msr_nav a {
         text-decoration: none;
-        margin: 0 10px;
         color: #3c6386;
 
         &:hover {
